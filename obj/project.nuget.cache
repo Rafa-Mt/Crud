@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7GRZXLJloMzEVpmiOL5xozKtW7LjTWdA6aUW8sQE7Cd9LzRE15dvm6QEVnNAFuiT85ohPQ5jKFFzveilecZUjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andres\\Documents\\Codes\\C#\\Crud\\Crud.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
